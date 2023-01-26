@@ -1,3 +1,3 @@
 # Python_DJANGO
 
-IT's better then FLASK!!!
+IT's better than FLASK!!!
